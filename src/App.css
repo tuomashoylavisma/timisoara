@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  text-align: left;
+}
+
+.DrawBranch {
+  padding-left: 2em
 }
 
 .App-logo {
