@@ -2,6 +2,10 @@
   text-align: left;
 }
 
+.Selected {
+  text-align: center;
+}
+
 .DrawBranch {
   padding-left: 2em
 }
