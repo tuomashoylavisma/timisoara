@@ -34,7 +34,7 @@ const Tree = ({}) => {
               setLoading(false)
           })
           .catch(error => console.log(error));
-      })
+      }, [])
 
     return (<div>
         {isLoading && <p>Loading....</p>}
